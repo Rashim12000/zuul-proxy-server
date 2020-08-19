@@ -19,3 +19,10 @@ t
 Dfonepay-hub/src/main/java/com/f1soft/zuul/fonepay/FooController.java,4/0/408925b0feb6f0b6aa3b70a46ee8f2d99d93c519
 |
 Lproxy-client/src/main/java/com/f1soft/zuul/proxy/ProxyClientApplication.java,0/2/021ba68bf1247e57aaa379f72c1ce5d234ec1820
+v
+Fproxy-client/src/main/java/com/f1soft/zuul/proxy/config/WebConfig.java,d/f/dfca461c5f0c80e5dacaff33bb168db7097cd74d
+{
+Kproxy-client/src/main/java/com/f1soft/zuul/proxy/config/SecurityConfig.java,7/1/7147577cc83d54a8c400926329bff52cb953ca12
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
