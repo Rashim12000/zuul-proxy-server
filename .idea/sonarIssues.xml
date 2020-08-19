@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../../gitlab-f1soft/banknx/common-config/src/main/java/com/f1soft/bankxp/commonconfig/config/AppConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../proxyserver (copy)/src/main/resources/application.yml">
           <value>
             <set />
@@ -74,6 +79,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/proxy-client/src/main/java/com/f1soft/zuul/proxy/FooController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/proxy-client/src/main/java/com/f1soft/zuul/proxy/config/WebConfig.java">
           <value>
             <set />
           </value>
