@@ -1,0 +1,15 @@
+app:
+  name: Zuul Proxy
+spring:
+
+  profiles.active: dev
+  main.allow-bean-definition-overriding: true
+
+server:
+  port: 9090
+
+zuul:
+  routes:
+    fonepay:
+      path: /proxy/**
+      url: http://localhost:9091/fonepay
