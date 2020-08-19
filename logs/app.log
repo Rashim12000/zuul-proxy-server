@@ -1,0 +1,10 @@
+2020-08-19 13:22:02,509 INFO com.f1soft.zuul.fonepay.FonepayApplication [main] The following profiles are active: dev
+2020-08-19 13:22:05,445 INFO com.f1soft.zuul.fonepay.FonepayApplication [main] Started FonepayApplication in 4.684 seconds (JVM running for 6.918)
+2020-08-19 13:22:17,297 INFO com.f1soft.zuul.proxy.ProxyClientApplication [main] The following profiles are active: dev
+2020-08-19 13:22:21,393 INFO com.f1soft.zuul.proxy.ProxyClientApplication [main] Started ProxyClientApplication in 6.939 seconds (JVM running for 8.667)
+2020-08-19 13:22:35,309 INFO com.f1soft.zuul.proxy.filter.RequestLogFilter [http-nio-9090-exec-1] GET request to http://localhost:9090/proxy/merchants
+2020-08-19 13:22:35,309 INFO com.f1soft.zuul.proxy.manager.RequestResponseManager [http-nio-9090-exec-1] Log response using manager : redirecting to http://localhost:9090/proxy/merchants
+2020-08-19 13:22:38,518 INFO com.f1soft.zuul.fonepay.FooController [http-nio-9091-exec-1] received get merchants
+2020-08-19 13:22:40,784 INFO com.f1soft.zuul.fonepay.FooController [http-nio-9091-exec-1] Authorization header set by proxy : Basic banksmart-omni-credential
+2020-08-19 13:22:44,098 INFO com.f1soft.zuul.proxy.filter.ResponseLogFilter [http-nio-9090-exec-1] BODY: {"id":1,"name":"Esewa"}
+2020-08-19 13:22:44,098 INFO com.f1soft.zuul.proxy.manager.RequestResponseManager [http-nio-9090-exec-1] Log response using manager : {"id":1,"name":"Esewa"}

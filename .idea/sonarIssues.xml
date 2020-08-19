@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/fonepay-hub/pom.xml">
           <value>
             <set />
@@ -64,6 +69,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/fonepay-hub/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/fonepay-hub/src/main/resources/logback.xml">
           <value>
             <set />
           </value>
@@ -124,6 +134,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/proxy-client/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/proxy-client/src/main/resources/logback.xml">
           <value>
             <set />
           </value>
